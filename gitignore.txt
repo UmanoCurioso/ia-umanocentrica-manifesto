@@ -1,0 +1,19 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / temporanei
+*.tmp
+*.bak
+*.log
+
+# Ambiente
+.env
+.env.local
