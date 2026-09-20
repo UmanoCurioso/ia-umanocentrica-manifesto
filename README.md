@@ -12,7 +12,7 @@
 
 > *Principi, Diritti, Tensioni e Meccanismi nell'Era degli Agenti Autonomi*
 
-**Versione:** 1.1 — bozza aperta
+**Versione:** 1.2 — bozza aperta
 **Curatore:** Luca F.
 **Licenza:** [CC BY-SA 4.0](LICENSE)
 **Stato:** documento aperto, versionato, modificabile con procedura tracciata
