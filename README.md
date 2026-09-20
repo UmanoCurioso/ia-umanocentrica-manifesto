@@ -8,6 +8,8 @@
 
 **🇬🇧 English README:** [README_EN.md](README_EN.md)
 
+**🇪🇸 README en español:** [README_ES.md](README_ES.md)
+
 > *Principi, Diritti, Tensioni e Meccanismi nell'Era degli Agenti Autonomi*
 
 **Versione:** 1.1 — bozza aperta
