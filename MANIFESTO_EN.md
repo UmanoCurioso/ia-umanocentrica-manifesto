@@ -2,7 +2,7 @@
 
 ### *Principles, Rights, Tensions and Mechanisms in the Age of Autonomous Agents*
 
-**Version 1.1 — open draft for discussion**
+**Version 1.2 — open draft for discussion**
 
 **Human curator in charge:** Luca F.
 **Drafting assisted by:** Qwen, DeepSeek, Kimi (language models, drafting tools)
