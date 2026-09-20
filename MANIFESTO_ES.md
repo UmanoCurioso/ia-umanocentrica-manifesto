@@ -2,7 +2,7 @@
 
 ### *Principios, Derechos, Tensiones y Mecanismos en la Era de los Agentes Autónomos*
 
-**Versión 1.1 — borrador abierto a discusión**
+**Versión 1.2 — borrador abierto a discusión**
 
 **Curador humano responsable:** Luca F.
 **Redacción asistida por:** Qwen, DeepSeek, Kimi (modelos lingüísticos, herramientas de redacción)
