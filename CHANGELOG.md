@@ -25,16 +25,18 @@ Il versionamento è semantico: `MAJOR.MINOR` (es. 1.1).
 ---
 
 
-## [1.1] — 2026-07
+## [1.2] — 2026-07
 
 ### Added
-- Nota di curatela e metodo
-- Capitolo 6 — Economia Politica e Governance
-- Capitolo 7 — Stress Test
-- Appendice A — Tabella operativa (diritto → indicatore → meccanismo → attore → rimedio)
-- Appendice B — Glossario minimo
-- Appendice C — Come contribuire e versionare
-- Limiti dichiarati esplicitamente in più capitoli
+- Traduzione in inglese del Manifesto: `MANIFESTO_EN.md`
+- Traduzione in spagnolo del Manifesto: `MANIFESTO_ES.md`
+- README in inglese: `README_EN.md`
+- README in spagnolo: `README_ES.md`
+- Selettore lingua in cima al README e alle tre versioni del Manifesto
+
+### Changed
+- README aggiornato con la riga "🌍 Lingue / Languages / Idiomas"
+- README, README_EN e README_ES aggiornati alla versione 1.2
 
 ### Changed
 - Firme degli autori ridefinite come "assistenza al drafting"
