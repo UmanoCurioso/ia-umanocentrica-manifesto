@@ -2,7 +2,7 @@
 
 Tutte le modifiche sostanziali a questo Manifesto sono documentate qui.
 Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.1.0/).
-Il versionamento è semantico: `MAJOR.MINOR` (es. 1.2).
+Il versionamento è semantico: `MAJOR.MINOR` (es. 1.1).
 
 ## [Unreleased]
 
@@ -11,6 +11,19 @@ Il versionamento è semantico: `MAJOR.MINOR` (es. 1.2).
 - Casi studio applicati agli stress test (v2.0)
 
 ---
+
+## [1.2] — 2026-07
+
+### Added
+- Traduzione in inglese: `MANIFESTO_EN.md`
+- Traduzione in spagnolo: `MANIFESTO_ES.md`
+- Selettore lingua in cima al README e alle tre versioni del Manifesto
+
+### Changed
+- README aggiornato con la riga "🌍 Lingue / Languages / Idiomas"
+
+---
+
 
 ## [1.1] — 2026-07
 
