@@ -2,12 +2,11 @@
 
 Tutte le modifiche sostanziali a questo Manifesto sono documentate qui.
 Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.1.0/).
-Il versionamento è semantico: `MAJOR.MINOR` (es. 1.1).
+Il versionamento è semantico: `MAJOR.MINOR` (es. 1.2).
 
 ## [Unreleased]
 
 ### Planned
-- Traduzione in inglese (v1.2)
 - Revisione con contributi esterni di giuristi ed economisti (v1.3)
 - Casi studio applicati agli stress test (v2.0)
 
