@@ -6,6 +6,8 @@
 
 **🌍 Lingue / Languages / Idiomas:** [Italiano](MANIFESTO.md) · [English](MANIFESTO_EN.md) · [Español](MANIFESTO_ES.md)
 
+**🇬🇧 English README:** [README_EN.md](README_EN.md)
+
 > *Principi, Diritti, Tensioni e Meccanismi nell'Era degli Agenti Autonomi*
 
 **Versione:** 1.1 — bozza aperta
