@@ -9,7 +9,7 @@
 **Data:** Luglio 2026
 **Licenza:** Creative Commons BY-SA 4.0
 **Stato:** documento aperto, versionato, modificabile con procedura tracciata
-
+**🌍 Lingue / Languages / Idiomas:** **Italiano** · [English](MANIFESTO_EN.md) · [Español](MANIFESTO_ES.md)
 ---
 
 ## Nota di curatela e metodo
